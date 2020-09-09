@@ -16,3 +16,11 @@
 	display: block;
 	margin-top: 2em;
 }
+
+body {
+	background-color: #ccc;
+}
+
+#cachorro, #casa {
+	border: 2px solid red;
+}
